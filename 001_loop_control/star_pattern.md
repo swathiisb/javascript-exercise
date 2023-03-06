@@ -2,6 +2,8 @@
 
 1. write a program to print this pattern.
 ```
+                   
+```javascript
   let n = 5; // row or column count
 // defining an empty string
 let string = "";
