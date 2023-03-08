@@ -72,5 +72,28 @@ for (let i = 1; i <=n; i++) {
 console.log(string);
 ```
 
+write a program to display this pattern:-
+    \*
+   \*\*
+  \*\*\*
+ \*\*\*\*
+\*\*\*\*\*
+
+``` javascript
+let n=5
+string=""
+for(let i=1; i<=n; i++){
+  for(let j=0; j<n-i; j++){
+    string+=" "
+  }
+  for(let k=0; k<i; k++){
+    string+="*"
+  }
+ string+="\n"
+}
+console.log(string)
+```
+
+
 
 
