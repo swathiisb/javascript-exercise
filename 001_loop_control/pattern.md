@@ -3,6 +3,8 @@
 ## for loop 
 
 1. write a program to print this pattern. 
+
+
     \* \
     \* \* \
     \* \* \* \
