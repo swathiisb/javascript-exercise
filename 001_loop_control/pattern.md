@@ -73,11 +73,7 @@ console.log(string);
 ```
 
 write a program to display this pattern:-
-    \*
-   \*\*
-  \*\*\*
- \*\*\*\*
-\*\*\*\*\*
+  
 
 ``` javascript
 let n=5
@@ -92,7 +88,7 @@ for(let i=1; i<=n; i++){
  string+="\n"
 }
 console.log(string)
-```
+```\
 
 
 
