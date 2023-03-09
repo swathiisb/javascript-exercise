@@ -74,6 +74,7 @@ console.log(string);
 
 write a program to display this pattern:-
   
+![cheese!] (C:\Users\swath\OneDrive\Pictures\Screenshots\Screenshot (63).png)
 
 ``` javascript
 let n=5
@@ -88,7 +89,7 @@ for(let i=1; i<=n; i++){
  string+="\n"
 }
 console.log(string)
-```\
+```
 
 
 
