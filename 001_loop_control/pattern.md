@@ -74,7 +74,7 @@ console.log(string);
 
 write a program to display this pattern:-
   
-![cheese!] (C:\Users\swath\OneDrive\Pictures\Screenshots\Screenshot (63).png)
+![cheese!] (001_loop_control\Screenshot (63).png)
 
 ``` javascript
 let n=5
