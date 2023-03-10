@@ -74,7 +74,7 @@ console.log(string);
 
 write a program to display this pattern:-
   
- <img width="100"  height="50" alt="Screenshot 2023-03-06 060708" src="https://user-images.githubusercontent.com/90920262/224251788-d6f3dccc-94ca-459d-a210-3eca886b9e41.png">
+ <img width="350"  height="250" alt="Screenshot 2023-03-06 060708" src="https://user-images.githubusercontent.com/90920262/224251788-d6f3dccc-94ca-459d-a210-3eca886b9e41.png">
 
 
 ``` javascript
