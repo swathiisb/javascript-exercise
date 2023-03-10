@@ -97,15 +97,16 @@ console.log(string)
 
 5. write a program to print the half diamond?
 
-*
-**
-***
-****
-*****
-****
-***
-**
-*
+
+\*
+\*\*
+\*\*\*
+\*\*\*\*
+\*\*\*\*\*
+\*\*\*\*
+\*\*\*
+\*\*
+\*
 
 
 ```javascript
