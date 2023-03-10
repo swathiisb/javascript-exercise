@@ -73,9 +73,12 @@ console.log(string);
 ```
 
 write a program to display this pattern:-
-  
- <img width="350"  height="250" alt="Screenshot 2023-03-06 060708" src="https://user-images.githubusercontent.com/90920262/224251788-d6f3dccc-94ca-459d-a210-3eca886b9e41.png">
-
+    *
+   **
+  ***
+ ****
+*****
+ 
 
 ``` javascript
 let n=5
@@ -92,6 +95,37 @@ for(let i=1; i<=n; i++){
 console.log(string)
 ```
 
+5. write a program to print the half diamond?
+
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+
+
+```javascript
+let n=5;
+string=""
+
+for(let i=1; i<=n; i++ ){
+  for(let k=1; k<=i; k++){
+    string+="*"
+  }
+  string+="\n"
+}
+
+for(let i=1; i<=n; i++ ){
+  for(let j=1; j<=n-i; j++){
+    string+="*"
+  }
+  string+="\n"
+}
+console.log(string)
 
 
 
