@@ -74,7 +74,7 @@ console.log(string);
 
 write a program to display this pattern:-
   
-![cheese!] (https://github.com/swathiisb/javascript-exercise/blob/db395da9a2af30e712bc2c94f354f0a2d6ec53c5/001_loop_control/Screenshot (63).png)
+![cheese!] (Screenshot (63).png)
 
 ``` javascript
 let n=5
